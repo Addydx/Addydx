@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=¡Bienvenido+a+mi+GitHub!;FullStack+Developer+en+proceso;JavaScript+Lover+%F0%9F%92%BB;Aprendiendo+y+construyendo%20cosas%20geniales!&center=true&width=380&height=45">
 </p>
 
+
 ---
 
 ### 🧠 Tecnologías que manejo
