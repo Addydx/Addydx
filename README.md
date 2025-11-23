@@ -86,4 +86,4 @@ Soy un desarrollador full stack en formación, apasionado por crear soluciones �
 
 ---
 
-<p align="center">✨ ¡Gracias por visitar mi perfil! ✨</p>
+<p align="center"></p>
