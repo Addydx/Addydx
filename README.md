@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Estudiante | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="[https://media.tenor.com/lhlDEs5fNNEAAAAC/anime-girl.gif](https://media1.tenor.com/m/U84CWyIZnJ0AAAAC/insomnia-chan-hot.gif)" width="350" />
+  <img src="https://media.tenor.com/lhlDEs5fNNEAAAAC/anime-girl.gif](https://media1.tenor.com/m/U84CWyIZnJ0AAAAC/insomnia-chan-hot.gif" width="350" />
 </p>
 
 ---
