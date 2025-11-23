@@ -2,9 +2,8 @@
 <h3 align="center">Full Stack Developer | Estudiante | Apasionado por la tecnología</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/0Nq2aRbeJdYAAAAC/insomnia-chan-hot.gif" width="350">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF4aWNmczc2ZHU5bGF2Y3RqeDZxdnptYWNlYXcyOGlzZHVvNnp0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif" width="350">
 </p>
-
 
 ---
 
