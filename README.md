@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy Alex!</h1>
+<h1 align="center">👋 ¡Que onda, soy Alex!</h1>
 <h3 align="center">Full Stack Developer | Estudiante | Apasionado por la tecnología</h3>
 
 <p align="center">
