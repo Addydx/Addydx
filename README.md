@@ -1,237 +1,145 @@
-<div align="center">
+<h1>Hi, I'm Alex Méndez 🦁</h1>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=HOLA,%20SOY%20ALEX%20MENDEZ%20🦁&fontSize=38&fontColor=FF0000&animation=none&fontAlignY=50"
-  alt="Hola, soy Alex Mendez"
-/>
+<p>
+  Bienvenido a mi perfil 👋
+  <br>
+  Soy estudiante de Informática y desarrollador Full Stack.
+</p>
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>FULL STACK DEVELOPER · DEVOPS · INFRAESTRUCTURA</strong>
-      <br><br>
-      🇲🇽 <strong>Desarrollador mexicano</strong>
-      <br>
-      Construyo software, automatizo procesos y convierto ideas en sistemas funcionales.
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 〔 PROFILE // SOBRE MÍ 〕
-
-> Estudiante de **Informática** enfocado en desarrollo web, aplicaciones móviles, automatización e infraestructura.  
-> Aprendo construyendo proyectos reales, resolviendo problemas y mejorando cada sistema paso a paso.
-
----
-
-## 〔 TECH // STACK 〕
-
-<div align="center">
-
-<!-- Rojos y naranjas -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" title="Swift"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" title="Angular"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" title="NestJS"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" title="npm"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" height="48" alt="WooCommerce" title="WooCommerce"/>
-
-<br><br>
-
-<!-- Amarillos y verdes -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" title="Supabase"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx"/>
-
-<br><br>
-
-<!-- Azules y celestes -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" title="Flutter"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" title="Dart"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" title="Kubernetes"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"/>
-
-<br><br>
-
-<!-- Morados, negros y neutros -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C Sharp" title="C Sharp"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" title=".NET"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" title="WordPress"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" title="Express"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" title="Postman"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" title="Prisma"/>
-
-</div>
-
-
----
-
-## 〔 DATA // MÉTRICAS 〕
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=ffffff&title_color=cc0000&icon_color=cc0000&text_color=1a1a1a&border_color=cc0000"
-  />
+<p>
+  Desarrollador de México
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff"
-    alt="Estadísticas de GitHub de Alex Mendez"
+    src="https://cdn-icons-png.flaticon.com/512/197/197397.png"
+    width="22"
+    alt="Bandera de México"
   />
-</picture>
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=ff0000"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=cc0000&text_color=1a1a1a&border_color=cc0000"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff"
-    alt="Lenguajes más usados por Alex Mendez"
-  />
-</picture>
+<h2>Tecnologías y herramientas</h2>
 
-<br><br>
+<p>
+  <!-- Neutros y oscuros -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 
-<img
-  src="https://streak-stats.demolab.com?user=Addydx&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B0B0B0&stroke=FF0000"
-  alt="Racha de contribuciones de Alex Mendez"
-/>
+  <!-- Azules oscuros -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white" alt="Rancher">
 
-</div>
+  <!-- Azules -->
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
----
+  <!-- Turquesas y cian -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
 
-## 〔 SNAKE // CONTRIBUTIONS 〕
+  <!-- Verdes -->
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+
+  <!-- Amarillos -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black" alt="K3s">
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore">
+
+  <!-- Naranjas -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
+
+  <!-- Rojos -->
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+
+  <!-- Morados -->
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+</p>
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake.svg"
-  />
   <img
     width="100%"
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake.svg"
+    src="https://capsule-render.vercel.app/api?type=rect&height=70&text=MY%20CONTRIBUTIONS&fontSize=26&fontColor=000000&animation=fadeIn&color=0:00A63E,20:00C853,40:00E676,60:00FF66,80:39FF14,100:76FF03"
+    alt="My Contributions"
   />
-</picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
+
+  <img
+    width="100%"
+    height="14"
+    src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:00A63E,20:00C853,40:00E676,60:00FF66,80:39FF14,100:76FF03"
+    alt="Bright green gradient divider"
+  />
 
 </div>
 
----
-
-## 〔 SIGNAL // PERFIL 〕
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=ff0000&style=for-the-badge" alt="Contador de visitas"/>
-  <img src="https://img.shields.io/github/stars/Addydx/Addydx?style=for-the-badge&color=ff0000&label=Stars" alt="Stars del repositorio de perfil"/>
-  <img src="https://img.shields.io/github/forks/Addydx/Addydx?style=for-the-badge&color=ff0000&label=Forks" alt="Forks del repositorio de perfil"/>
-</div>
-
----
-
-## 〔 LINK // CONTACTO 〕
+<h2 align="center">Contacto</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-mendez-ruiz-a3ab87260/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Alex%20Mendez-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Alex%20Mendez-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn de Alex Mendez"
     />
   </a>
+
   &nbsp;
+
   <a href="https://www.instagram.com/hyprteam73/">
     <img
-      src="https://img.shields.io/badge/Instagram-HyprTeam-8B0000?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-HyprTeam-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram de HyprTeam"
     />
-  </a>  
+  </a>
 </p>
 
----
+<h2 align="center">Perfil</h2>
 
-<div align="center">
-
-```text
-> LEARN
-> ADAPT
-> SOLVE
-> NEVER GIVE UP
-```
-
-</div>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=7C3AED&style=for-the-badge"
+    alt="Contador de visitas"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/github/stars/Addydx/Addydx?style=for-the-badge&color=7C3AED&label=Stars"
+    alt="Stars del repositorio de perfil"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/github/forks/Addydx/Addydx?style=for-the-badge&color=7C3AED&label=Forks"
+    alt="Forks del repositorio de perfil"
+  />
+</p>
