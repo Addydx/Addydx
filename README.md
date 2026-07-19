@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=HOLA,%20SOY%20ALEX%20MENDEZ%20🦁&fontSize=38&fontColor=FF1493&animation=none&fontAlignY=50"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=HOLA,%20SOY%20ALEX%20MENDEZ%20🦁&fontSize=38&fontColor=FF0000&animation=none&fontAlignY=50"
   alt="Hola, soy Alex Mendez"
 />
 
@@ -131,15 +131,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=ff0000"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=ffffff&title_color=cc0000&icon_color=cc0000&text_color=1a1a1a&border_color=cc0000"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff"
     alt="Estadísticas de GitHub de Alex Mendez"
   />
 </picture>
@@ -147,15 +147,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=ff0000"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&theme=default&hide_border=true&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=cc0000&text_color=1a1a1a&border_color=cc0000"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff"
     alt="Lenguajes más usados por Alex Mendez"
   />
 </picture>
@@ -163,7 +163,7 @@
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=Addydx&theme=radical&hide_border=true"
+  src="https://streak-stats.demolab.com?user=Addydx&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B0B0B0&stroke=FF0000"
   alt="Racha de contribuciones de Alex Mendez"
 />
 
@@ -198,9 +198,9 @@
 ## 〔 SIGNAL // PERFIL 〕
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=ff1493&style=for-the-badge" alt="Contador de visitas"/>
-  <img src="https://img.shields.io/github/stars/Addydx/Addydx?style=for-the-badge&color=ff1493&label=Stars" alt="Stars del repositorio de perfil"/>
-  <img src="https://img.shields.io/github/forks/Addydx/Addydx?style=for-the-badge&color=ff1493&label=Forks" alt="Forks del repositorio de perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=ff0000&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://img.shields.io/github/stars/Addydx/Addydx?style=for-the-badge&color=ff0000&label=Stars" alt="Stars del repositorio de perfil"/>
+  <img src="https://img.shields.io/github/forks/Addydx/Addydx?style=for-the-badge&color=ff0000&label=Forks" alt="Forks del repositorio de perfil"/>
 </div>
 
 ---
@@ -210,14 +210,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-mendez-ruiz-a3ab87260/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Alex%20Mendez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Alex%20Mendez-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn de Alex Mendez"
     />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/hyprteam73/">
     <img
-      src="https://img.shields.io/badge/Instagram-HyprTeam-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-HyprTeam-8B0000?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram de HyprTeam"
     />
   </a>  
