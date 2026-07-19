@@ -131,49 +131,25 @@ Soy Alex, estudiante de Informática y desarrollador Full Stack en formación. T
 
 ---
 
-## 📊 Actividad en GitHub
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
+    srcset="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github"
+    srcset="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake.svg"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Addydx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"
-    alt="Estadísticas generales de GitHub de Alex"
+    width="100%"
+    alt="Animación Snake de las contribuciones de GitHub de Alex"
+    src="https://raw.githubusercontent.com/Addydx/Addydx/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&theme=default&hide_border=true&langs_count=6"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addydx&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    alt="Lenguajes más utilizados en los repositorios de Alex"
-  />
-</picture>
-
-<br><br>
-
-<img
-width="96%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Addydx&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&custom_title=Actividad%20de%20contribuciones"
-alt="Gráfica de actividad de GitHub de Alex"
-/>
 
 </div>
 
