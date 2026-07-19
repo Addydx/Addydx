@@ -1,151 +1,130 @@
 <div align="center">
 
-# Hola, soy Alex Mendez 🦁
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=850&height=45&lines=Mexicano+%F0%9F%87%B2%F0%9F%87%BD;Full+Stack+Developer;DevOps+Enthusiast;Construyendo%2C+aprendiendo+y+mejorando"
-  alt="Presentación de Alex Mendez"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=HOLA,%20SOY%20ALEX%20MENDEZ%20🦁&fontSize=38&fontColor=FF1493&animation=none&fontAlignY=50"
+  alt="Hola, soy Alex Mendez"
 />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mexicano-🇲🇽-ff1493?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0d1117?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/DevOps%20Enthusiast-ff1493?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  Construyo experiencias web y móviles, y disfruto la infraestructura, la automatización y aprender haciendo.
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>FULL STACK DEVELOPER · DEVOPS · INFRAESTRUCTURA</strong>
+      <br><br>
+      🇲🇽 <strong>Desarrollador mexicano</strong>
+      <br>
+      Construyo software, automatizo procesos y convierto ideas en sistemas funcionales.
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 〔 PROFILE // SOBRE MÍ 〕
 
-- Estudiante de **Informática**
-- Enfocado en **desarrollo web**, **aplicaciones móviles** y **DevOps**
-- Me gusta construir proyectos reales y mejorar constantemente
-- Interesado en **backend**, **infraestructura** y **automatización**
+> Estudiante de **Informática** enfocado en desarrollo web, aplicaciones móviles, automatización e infraestructura.  
+> Aprendo construyendo proyectos reales, resolviendo problemas y mejorando cada sistema paso a paso.
 
 ---
 
-## 🛠️ Stack tecnológico
+## 〔 TECH // STACK 〕
 
-### Frontend
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" alt="Angular" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS" title="Tailwind CSS"/>
-</p>
+<!-- Rojos y naranjas -->
 
-<p align="center">
-  <code>HTML</code> ·
-  <code>CSS</code> ·
-  <code>JavaScript</code> ·
-  <code>TypeScript</code> ·
-  <code>React</code> ·
-  <code>Next.js</code> ·
-  <code>Angular</code> ·
-  <code>Tailwind CSS</code>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" title="Swift"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" title="Angular"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" title="NestJS"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" title="npm"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="48" height="48" alt="WooCommerce" title="WooCommerce"/>
 
-### Backend y APIs
+<br><br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" alt="Express" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" alt="Flask" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" alt="C#" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" alt=".NET" title=".NET"/>
-</p>
+<!-- Amarillos y verdes -->
 
-<p align="center">
-  <code>Node.js</code> ·
-  <code>Express</code> ·
-  <code>Python</code> ·
-  <code>Flask</code> ·
-  <code>C#</code> ·
-  <code>.NET</code> ·
-  <code>REST API</code> ·
-  <code>JWT</code>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" title="Supabase"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx"/>
 
-### Desarrollo móvil
+<br><br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" alt="Flutter" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" alt="Dart" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="42" alt="Swift" title="Swift"/>
-</p>
+<!-- Azules y celestes -->
 
-<p align="center">
-  <code>Flutter</code> ·
-  <code>Dart</code> ·
-  <code>Swift</code>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" title="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" title="Flutter"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" title="Dart"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" title="Kubernetes"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="48" height="48" alt="Rancher" title="Rancher"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"/>
 
-### DevOps e infraestructura
+<br><br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" alt="Kubernetes" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rancher/rancher-original.svg" width="42" alt="Rancher" title="Rancher"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="42" alt="Nginx" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="42" alt="GitHub Actions" title="GitHub Actions"/>
-</p>
+<!-- Morados, negros y neutros -->
 
-<p align="center">
-  <code>Docker</code> ·
-  <code>Kubernetes</code> ·
-  <code>Rancher</code> ·
-  <code>Linux</code> ·
-  <code>Nginx</code> ·
-  <code>GitHub Actions</code> ·
-  <code>CI/CD</code> ·
-  <code>SSH</code>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C Sharp" title="C Sharp"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" title=".NET"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" title="WordPress"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" title="Express"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" title="Postman"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" title="Prisma"/>
 
-### Bases de datos
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="42" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42" alt="Supabase" title="Supabase"/>
-</p>
-
-<p align="center">
-  <code>PostgreSQL</code> ·
-  <code>MySQL</code> ·
-  <code>MongoDB</code> ·
-  <code>Firebase</code> ·
-  <code>Supabase</code>
-</p>
-
-### Herramientas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" alt="Postman" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" alt="VS Code" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="42" alt="WordPress" title="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="42" alt="WooCommerce" title="WooCommerce"/>
-</p>
 
 ---
 
-## 📊 Métricas
+## 〔 DATA // MÉTRICAS 〕
 
 <div align="center">
 
@@ -192,7 +171,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 〔 SNAKE // CONTRIBUTIONS 〕
 
 <div align="center">
 
@@ -216,7 +195,7 @@
 
 ---
 
-## 📌 Perfil
+## 〔 SIGNAL // PERFIL 〕
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=ff1493&style=for-the-badge" alt="Contador de visitas"/>
@@ -226,7 +205,7 @@
 
 ---
 
-## 🤝 Contacto
+## 〔 LINK // CONTACTO 〕
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alex-mendez-ruiz-a3ab87260/">
@@ -241,18 +220,18 @@
       src="https://img.shields.io/badge/Instagram-HyprTeam-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram de HyprTeam"
     />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/people/HyprTeam/61591980200395/">
-    <img
-      src="https://img.shields.io/badge/Facebook-HyprTeam-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook de HyprTeam"
-    />
-  </a>
+  </a>  
 </p>
 
 ---
 
-<p align="center">
-  <strong><em>“I learn, I adapt, I solve problems — and I never give up.”</em></strong>
-</p>
+<div align="center">
+
+```text
+> LEARN
+> ADAPT
+> SOLVE
+> NEVER GIVE UP
+```
+
+</div>
