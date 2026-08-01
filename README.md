@@ -1,12 +1,18 @@
-<h1>Hi, I'm Alex Méndez 🦁</h1>
-
-<p>
-  Bienvenido a mi perfil 👋
-  <br>
-  Soy estudiante de Informática y desarrollador Full Stack.
+<p align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="Portada de Alex Méndez"
+    width="100%"
+  />
 </p>
 
-<p>
+<h1 align="left">Hi, I'm Alex Méndez 🦁</h1>
+
+<p align="left">
+  Estudiante de Informática · Full Stack Developer · DevOps
+</p>
+
+<p align="left">
   Desarrollador de México
   <img
     src="https://cdn-icons-png.flaticon.com/512/197/197397.png"
@@ -76,7 +82,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=70&text=MY%20CONTRIBUTIONS&fontSize=26&fontColor=000000&animation=fadeIn&color=0:00A63E,20:00C853,40:00E676,60:00FF66,80:39FF14,100:76FF03"
+    src="https://capsule-render.vercel.app/api?type=rect&height=70&text=MY%20CONTRIBUTIONS&fontSize=26&fontColor=FFFFFF&animation=fadeIn&color=0:1C1939,30:1F3697,65:0D53D2,100:4F8EF7"
     alt="My Contributions"
   />
 
@@ -99,47 +105,44 @@
   <img
     width="100%"
     height="14"
-    src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:00A63E,20:00C853,40:00E676,60:00FF66,80:39FF14,100:76FF03"
-    alt="Bright green gradient divider"
+    src="https://capsule-render.vercel.app/api?type=rect&height=14&color=0:1C1939,30:1F3697,65:0D53D2,100:4F8EF7"
+    alt="Blue gradient divider"
   />
 
 </div>
 
-<h2 align="center">Contacto</h2>
+<h2 align="left">Contacto</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/alex-mendez-ruiz-a3ab87260/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Alex%20Mendez-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Alex%20Mendez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn de Alex Mendez"
     />
   </a>
 
-  &nbsp;
 
   <a href="https://www.instagram.com/hyprteam73/">
     <img
-      src="https://img.shields.io/badge/Instagram-HyprTeam-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-HyprTeam-1F3697?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram de HyprTeam"
     />
   </a>
 </p>
 
-<h2 align="center">Perfil</h2>
+<h2 align="left">Perfil</h2>
 
-<p align="center">
+<p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=7C3AED&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Addydx&label=Visitas&color=0D53D2&style=for-the-badge"
     alt="Contador de visitas"
   />
-  &nbsp;
   <img
-    src="https://img.shields.io/github/stars/Addydx/Addydx?style=for-the-badge&color=7C3AED&label=Stars"
+    src="https://img.shields.io/github/stars/Addydx/Addydx?style=for-the-badge&color=1F3697&label=Stars&logo=github&logoColor=white"
     alt="Stars del repositorio de perfil"
   />
-  &nbsp;
   <img
-    src="https://img.shields.io/github/forks/Addydx/Addydx?style=for-the-badge&color=7C3AED&label=Forks"
+    src="https://img.shields.io/github/forks/Addydx/Addydx?style=for-the-badge&color=0D53D2&label=Forks&logo=github&logoColor=white"
     alt="Forks del repositorio de perfil"
   />
 </p>
