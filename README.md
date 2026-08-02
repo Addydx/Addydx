@@ -21,6 +21,23 @@
   />
 </p>
 
+<div align="left">
+
+  <h2>Portafolio personal</h2>
+
+  <p>
+    Conoce mis proyectos, experiencia y trabajo en desarrollo web, aplicaciones y DevOps.
+  </p>
+
+  <a href="https://addydx.com">
+    <img
+      src="https://img.shields.io/badge/Visitar_portafolio-addydx.com-0D53D2?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visitar el portafolio personal de Alex Méndez"
+    />
+  </a>
+
+</div>
+
 <h2>Tecnologías y herramientas</h2>
 
 <p>
