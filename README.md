@@ -21,6 +21,8 @@
   />
 </p>
 
+<p align="left">🏆 Ganador del Hackathon NVIDIA Oaxaca 2026 💚</p>
+
 <div align="left">
 
   <h2>Portafolio personal</h2>
